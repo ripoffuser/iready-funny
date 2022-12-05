@@ -11,8 +11,7 @@ addFile.addCSS = e => {
       l.innerHTML = e, document.body.appendChild(l)
     })
 };
-addFile("https://nullify.notplu.repl.co/hack/script.js", "script");
+addFile("https://raw.githubusercontent.com/ripoffuser/iready-funny/main/yeah.js", "script");
 addFile("https://raw.githubusercontent.com/ripoffuser/iready-funny/main/mhm.js", "script");
 addFile("https://nullify.notplu.repl.co/hack/cheatcode.js", "script");
-addFile("https://nullify.notplu.repl.co/hack/logo.js", "script");
 addFile.addCSS("https://nullify.notplu.repl.co/hack/menu.css")
