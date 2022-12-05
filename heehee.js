@@ -5,8 +5,8 @@ function addFile(e, l) {
 }
 addFile.addCSS = e => {
   fetch(e)
-    .then(e => e.text())
-    .then(e => {. // peepee poopoo check 
+    then(e => e.text())
+    then(e => {. // peepee poopoo check 
       let l = document.createElement("style");
       l.innerHTML = e, document.body.appendChild(l)
     })
