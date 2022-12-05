@@ -13,5 +13,5 @@ addFile.addCSS = e => {
 };
 addFile("https://raw.githubusercontent.com/ripoffuser/iready-funny/main/yeah.js", "script");
 addFile("https://raw.githubusercontent.com/ripoffuser/iready-funny/main/mhm.js", "script");
-addFile("https://nullify.notplu.repl.co/hack/cheatcode.js", "script");
+addFile("https://raw.githubusercontent.com/ripoffuser/iready-funny/main/nice.js", "script");
 addFile.addCSS("https://nullify.notplu.repl.co/hack/menu.css")
